@@ -1,0 +1,108 @@
+
+```json
+{
+  "planilha": {
+    "Colunas": [
+      "Atividade",
+      "Responsável",
+      "Data de Início",
+      "Data de Término",
+      "Status"
+    ],
+    "Linhas": [
+      {
+        "Atividade": "Definir requisitos do script",
+        "Responsável": "Equipe de Análise",
+        "Data de Início": "2024-01-01",
+        "Data de Término": "2024-01-02",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Identificar elementos da landing page a serem incluídos",
+        "Responsável": "Equipe Técnica",
+        "Data de Início": "2024-01-03",
+        "Data de Término": "2024-01-04",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Elaborar cronograma detalhado",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2024-01-05",
+        "Data de Término": "2024-01-05",
+        "Status": "Concluída"
+      },
+      {
+        "Atividade": "Implementar função para interpretar a descrição",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-06",
+        "Data de Término": "2024-01-10",
+        "Status": "Em andamento"
+      },
+      {
+        "Atividade": "Desenvolver código HTML para a landing page",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-11",
+        "Data de Término": "2024-01-15",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Implementar design responsivo usando CSS",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-16",
+        "Data de Término": "2024-01-18",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Integrar funcionalidades de formulário e call-to-action",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-19",
+        "Data de Término": "2024-01-20",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Testar a landing page em diferentes dispositivos",
+        "Responsável": "Equipe de QA",
+        "Data de Início": "2024-01-21",
+        "Data de Término": "2024-01-23",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Validar a funcionalidade dos formulários",
+        "Responsável": "Equipe de QA",
+        "Data de Início": "2024-01-24",
+        "Data de Término": "2024-01-25",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Ajustar o design conforme feedback",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-26",
+        "Data de Término": "2024-01-26",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Finalizar documentação do projeto",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2024-01-27",
+        "Data de Término": "2024-01-29",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Preparar apresentação para partes interessadas",
+        "Responsável": "Gerente de Projeto",
+        "Data de Início": "2024-01-30",
+        "Data de Término": "2024-01-30",
+        "Status": "Pendente"
+      },
+      {
+        "Atividade": "Implementar ajustes finais e feedback",
+        "Responsável": "Equipe de Desenvolvimento",
+        "Data de Início": "2024-01-30",
+        "Data de Término": "2024-01-30",
+        "Status": "Pendente"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Geração de Landing Page Automatizada"
+}
+```
