@@ -13,96 +13,96 @@
       {
         "Atividade": "Definir requisitos do script",
         "Responsável": "Equipe de Análise",
-        "Data de Início": "2024-01-01",
-        "Data de Término": "2024-01-02",
+        "Data de Início": "2024-02-01",
+        "Data de Término": "2024-02-02",
         "Status": "Concluída"
       },
       {
-        "Atividade": "Identificar elementos da landing page a serem incluídos",
+        "Atividade": "Identificar elementos essenciais para a landing page",
         "Responsável": "Equipe Técnica",
-        "Data de Início": "2024-01-03",
-        "Data de Término": "2024-01-04",
+        "Data de Início": "2024-02-03",
+        "Data de Término": "2024-02-04",
         "Status": "Concluída"
       },
       {
         "Atividade": "Elaborar cronograma detalhado",
         "Responsável": "Gerente de Projeto",
-        "Data de Início": "2024-01-05",
-        "Data de Término": "2024-01-05",
+        "Data de Início": "2024-02-05",
+        "Data de Término": "2024-02-05",
         "Status": "Concluída"
       },
       {
-        "Atividade": "Implementar função para interpretar a descrição",
+        "Atividade": "Implementar lógica para analisar a descrição de entrada",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-06",
-        "Data de Término": "2024-01-10",
+        "Data de Início": "2024-02-06",
+        "Data de Término": "2024-02-10",
         "Status": "Em andamento"
       },
       {
-        "Atividade": "Desenvolver código HTML para a landing page",
+        "Atividade": "Desenvolver algoritmos para extrair elementos da landing page",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-11",
-        "Data de Término": "2024-01-15",
+        "Data de Início": "2024-02-11",
+        "Data de Término": "2024-02-15",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Implementar design responsivo usando CSS",
+        "Atividade": "Criar código HTML e CSS para a construção da página",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-16",
-        "Data de Término": "2024-01-18",
+        "Data de Início": "2024-02-16",
+        "Data de Término": "2024-02-18",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Integrar funcionalidades de formulário e call-to-action",
+        "Atividade": "Implementar funcionalidades de call-to-action e formulário",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-19",
-        "Data de Término": "2024-01-20",
+        "Data de Início": "2024-02-19",
+        "Data de Término": "2024-02-20",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Testar a landing page em diferentes dispositivos",
+        "Atividade": "Testar a funcionalidade do script com descrições de exemplo",
         "Responsável": "Equipe de QA",
-        "Data de Início": "2024-01-21",
-        "Data de Término": "2024-01-23",
+        "Data de Início": "2024-02-21",
+        "Data de Término": "2024-02-23",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Validar a funcionalidade dos formulários",
+        "Atividade": "Validar a responsividade da landing page em diferentes dispositivos",
         "Responsável": "Equipe de QA",
-        "Data de Início": "2024-01-24",
-        "Data de Término": "2024-01-25",
+        "Data de Início": "2024-02-24",
+        "Data de Término": "2024-02-25",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Ajustar o design conforme feedback",
+        "Atividade": "Realizar ajustes com base no feedback obtido",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-26",
-        "Data de Término": "2024-01-26",
+        "Data de Início": "2024-02-26",
+        "Data de Término": "2024-02-26",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Finalizar documentação do projeto",
+        "Atividade": "Finalizar a documentação do projeto",
         "Responsável": "Gerente de Projeto",
-        "Data de Início": "2024-01-27",
-        "Data de Término": "2024-01-29",
+        "Data de Início": "2024-02-27",
+        "Data de Término": "2024-02-28",
         "Status": "Pendente"
       },
       {
         "Atividade": "Preparar apresentação para partes interessadas",
         "Responsável": "Gerente de Projeto",
-        "Data de Início": "2024-01-30",
-        "Data de Término": "2024-01-30",
+        "Data de Início": "2024-02-29",
+        "Data de Término": "2024-02-29",
         "Status": "Pendente"
       },
       {
-        "Atividade": "Implementar ajustes finais e feedback",
+        "Atividade": "Implementar qualquer ajuste final antes da entrega",
         "Responsável": "Equipe de Desenvolvimento",
-        "Data de Início": "2024-01-30",
-        "Data de Término": "2024-01-30",
+        "Data de Início": "2024-02-29",
+        "Data de Término": "2024-02-29",
         "Status": "Pendente"
       }
     ]
   },
-  "nome_da_planilha": "Planilha do Projeto - Geração de Landing Page Automatizada"
+  "nome_da_planilha": "Planilha do Projeto - Geração Automatizada de Landing Pages"
 }
 ```
