@@ -1,0 +1,57 @@
+
+```json
+{
+  "cronograma": {
+    "Fase 1": {
+      "Nome": "Planejamento",
+      "Datas": {
+        "Início": "2024-01-01",
+        "Término": "2024-01-05"
+      },
+      "Atividades": [
+        "Definir requisitos do script",
+        "Identificar elementos da landing page a serem incluídos",
+        "Elaborar cronograma detalhado"
+      ]
+    },
+    "Fase 2": {
+      "Nome": "Desenvolvimento",
+      "Datas": {
+        "Início": "2024-01-06",
+        "Término": "2024-01-20"
+      },
+      "Atividades": [
+        "Implementar função para interpretar a descrição",
+        "Desenvolver código HTML para a landing page",
+        "Implementar design responsivo usando CSS",
+        "Integrar funcionalidades de formulário e call-to-action"
+      ]
+    },
+    "Fase 3": {
+      "Nome": "Testes e Validação",
+      "Datas": {
+        "Início": "2024-01-21",
+        "Término": "2024-01-25"
+      },
+      "Atividades": [
+        "Testar a landing page em diferentes dispositivos",
+        "Validar a funcionalidade dos formulários",
+        "Ajustar o design conforme feedback"
+      ]
+    },
+    "Fase 4": {
+      "Nome": "Entrega",
+      "Datas": {
+        "Início": "2024-01-26",
+        "Término": "2024-01-30"
+      },
+      "Atividades": [
+        "Finalizar documentação do projeto",
+        "Preparar apresentação para partes interessadas",
+        "Implementar ajustes finais e feedback"
+      ]
+    }
+  },
+  "nome_do_cronograma": "Cronograma do Projeto - Geração de Landing Page Automatizada"
+}
+```
