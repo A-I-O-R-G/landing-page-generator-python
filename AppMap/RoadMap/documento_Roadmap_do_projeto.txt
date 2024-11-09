@@ -1,0 +1,104 @@
+
+```json
+{
+  "Roadmap": {
+    "nome_do_Roadmap": "Roadmap do Projeto - Geração de Landing Page Automatizada",
+    "fases": [
+      {
+        "fase": "Planejamento",
+        "data_inicio": "2024-01-01",
+        "data_termino": "2024-01-05",
+        "atividades": [
+          {
+            "atividade": "Definir requisitos do script",
+            "responsavel": "Equipe de Análise",
+            "status": "Concluída"
+          },
+          {
+            "atividade": "Identificar elementos da landing page a serem incluídos",
+            "responsavel": "Equipe Técnica",
+            "status": "Concluída"
+          },
+          {
+            "atividade": "Elaborar cronograma detalhado",
+            "responsavel": "Gerente de Projeto",
+            "status": "Concluída"
+          }
+        ]
+      },
+      {
+        "fase": "Desenvolvimento",
+        "data_inicio": "2024-01-06",
+        "data_termino": "2024-01-20",
+        "atividades": [
+          {
+            "atividade": "Implementar função para interpretar a descrição",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Em andamento"
+          },
+          {
+            "atividade": "Desenvolver código HTML para a landing page",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Implementar design responsivo usando CSS",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Integrar funcionalidades de formulário e call-to-action",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          }
+        ]
+      },
+      {
+        "fase": "Testes e Validação",
+        "data_inicio": "2024-01-21",
+        "data_termino": "2024-01-25",
+        "atividades": [
+          {
+            "atividade": "Testar a landing page em diferentes dispositivos",
+            "responsavel": "Equipe de QA",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Validar a funcionalidade dos formulários",
+            "responsavel": "Equipe de QA",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Ajustar o design conforme feedback",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          }
+        ]
+      },
+      {
+        "fase": "Entrega",
+        "data_inicio": "2024-01-26",
+        "data_termino": "2024-01-30",
+        "atividades": [
+          {
+            "atividade": "Finalizar documentação do projeto",
+            "responsavel": "Gerente de Projeto",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Preparar apresentação para partes interessadas",
+            "responsavel": "Gerente de Projeto",
+            "status": "Pendente"
+          },
+          {
+            "atividade": "Implementar ajustes finais e feedback",
+            "responsavel": "Equipe de Desenvolvimento",
+            "status": "Pendente"
+          }
+        ]
+      }
+    ],
+    "objetivo_do_projeto": "O usuário está solicitando a criação de um script que automatize o processo de geração de uma landing page (página de captura) a partir de uma descrição fornecida. O script deve interpretar a descrição, identificando os elementos cruciais a serem incluídos na landing page, tais como: 1. Título, 2. Subtítulo, 3. Imagens, 4. Textos descritivos, 5. Call-to-action (chamada para ação), e 6. Formulários de inscrição ou coleta de dados. O objetivo é que, ao receber a descrição como entrada, o script produza um código HTML/CSS pronto para uso, que possa ser facilmente integrado em um site ou plataforma de marketing online. Além disso, o script deve garantir que a landing page seja responsiva e otimizable para diferentes dispositivos e navegadores, visando oferecer uma experiência de usuário agradável e eficaz para conversão de visitantes em leads."
+  }
+}
+```
