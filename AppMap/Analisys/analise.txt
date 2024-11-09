@@ -1,43 +1,43 @@
 
 ```json
 {
-    "resumo": "O projeto visa criar um script que automatize a geração de uma landing page a partir de uma descrição fornecida, interpretando e identificando elementos essenciais como título, subtítulo, imagens, textos, call-to-action e formulários. O resultado será um código HTML/CSS responsivo que pode ser facilmente integrado em plataformas online para conversão de visitantes em leads.",
+    "resumo": "O projeto busca criar um script que automatiza a geração de landing pages (páginas de captura) a partir de uma descrição fornecida. O script deverá analisar a descrição e extrair elementos essenciais, incluindo título, subtítulos, parágrafos, imagens relevantes, chamadas para ação e botões de contato. Além disso, gerará o código HTML e CSS necessário, assegurando que a landing page seja esteticamente atraente e responsiva.",
     "requisitos_funcionais": [
-        "O script deve interpretar a descrição fornecida para identificar elementos essenciais da landing page.",
-        "O script deve gerar o código HTML para a landing page.",
-        "O script deve implementar o design responsivo usando CSS.",
-        "O script deve integrar funcionalidades de formulários e elementos de call-to-action."
+        "O script deve analisar a descrição fornecida e identificar elementos essenciais para a landing page.",
+        "O script deve gerar o código HTML necessário para a construção da página.",
+        "O script deve implementar CSS para garantir um design responsivo.",
+        "O script deve incluir funcionalidades de call-to-action e formulários de contato."
     ],
     "requisitos_nao_funcionais": [
-        "A landing page deve ser responsiva para diferentes dispositivos e navegadores.",
-        "O script deve produzir um código otimizado para performance e SEO.",
-        "A interface do usuário deve ser amigável em termos de interação com o script."
+        "A landing page deve ser responsiva e otimizada para diversos dispositivos e navegadores.",
+        "O código gerado deve ser limpo e de fácil integração em diferentes plataformas.",
+        "A experiência do usuário deve ser suave e intuitiva."
     ],
     "dependencias": [
-        "A atividade 'Desenvolver código HTML para a landing page' depende da conclusão da atividade 'Implementar função para interpretar a descrição'.",
-        "A atividade 'Implementar design responsivo usando CSS' depende da conclusão da atividade 'Desenvolver código HTML para a landing page'.",
-        "A atividade 'Integrar funcionalidades de formulário e call-to-action' depende da execução das etapas anteriores relacionadas ao desenvolvimento do HTML.",
-        "A atividade 'Testar a landing page em diferentes dispositivos' depende da conclusão da atividade 'Integrar funcionalidades de formulário e call-to-action'."
+        "A atividade 'Desenvolver algoritmos para extrair elementos da landing page' depende da conclusão da atividade 'Implementar lógica para analisar a descrição de entrada'.",
+        "A atividade 'Criar código HTML e CSS para a construção da página' depende da conclusão da atividade 'Desenvolver algoritmos para extrair elementos da landing page'.",
+        "A atividade 'Implementar funcionalidades de call-to-action e formulário' depende da conclusão da atividade 'Criar código HTML e CSS para a construção da página'.",
+        "A atividade 'Testar a funcionalidade do script com descrições de exemplo' depende da realização de todas as implementações anteriores."
     ],
     "marcos": [
-        "Marco 1: Conclusão do planejamento e definição dos requisitos em 2024-01-05.",
-        "Marco 2: Finalização da implementação da função para interpretar a descrição até 2024-01-10.",
-        "Marco 3: Desenvolvimento do código HTML e design responsivo concluído até 2024-01-20.",
-        "Marco 4: Conclusão dos testes da landing page até 2024-01-25.",
-        "Marco 5: Entrega final do projeto em 2024-01-30."
+        "Marco 1: Conclusão do planejamento e definição de requisitos entre 2024-02-05.",
+        "Marco 2: Implementação da lógica para analisar a descrição de entrada até 2024-02-10.",
+        "Marco 3: Desenvolvimento do HTML/CSS e funcionalidades da landing page até 2024-02-20.",
+        "Marco 4: Conclusão dos testes de funcionalidade e responsividade até 2024-02-25.",
+        "Marco 5: Entrega final do projeto em 2024-02-29."
     ],
     "recursos": [
-        "Recurso 1: Equipe de Análise para definir requisitos do script.",
+        "Recurso 1: Equipe de Análise para definir os requisitos do script.",
         "Recurso 2: Equipe Técnica para identificar elementos da landing page.",
-        "Recurso 3: Equipe de Desenvolvimento para implementar as funcionalidades.",
-        "Recurso 4: Equipe de QA para validar a integração e funcionalidade dos elementos.",
-        "Recurso 5: Gerente de Projeto para a organização e coordenação do projeto."
+        "Recurso 3: Equipe de Desenvolvimento para implementar a lógica e construir a página.",
+        "Recurso 4: Equipe de QA para testes de validação e feedback.",
+        "Recurso 5: Gerente de Projeto para coordenação e documentação do projeto."
     ],
     "riscos": [
-        "Risco 1: Atrasos devido a complexidades na implementação das funcionalidades do script.",
-        "Risco 2: Problemas na integração dos formulários e call-to-action.",
-        "Risco 3: Alterações nos requisitos do projeto durante o desenvolvimento.",
-        "Risco 4: Dificuldades em garantir a responsividade adequada da landing page."
+        "Risco 1: Atrasos na entrega devido à complexidade na implementação da lógica do script.",
+        "Risco 2: Possibilidade de falhas na responsividade da landing page.",
+        "Risco 3: Mudanças nos requisitos do projeto durante o desenvolvimento.",
+        "Risco 4: Dificuldades em integrar o script em diferentes plataformas de marketing."
     ]
 }
 ```
